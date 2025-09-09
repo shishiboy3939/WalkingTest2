@@ -1,4 +1,0 @@
-Temp/ScriptUpdater/1998426402/2063094055_ObjectResetter.cs => Assets/Standard Assets/Utility/ObjectResetter.cs
-Temp/ScriptUpdater/1998426402/1478406395_DragRigidbody.cs => Assets/Standard Assets/Utility/DragRigidbody.cs
-Temp/ScriptUpdater/1998426402/1227406718_ThirdPersonCharacter.cs => Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs
-Temp/ScriptUpdater/1998426402/631192903_RigidbodyFirstPersonController.cs => Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
