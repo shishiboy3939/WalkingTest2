@@ -398,7 +398,10 @@
 -analyzer:"/Applications/Unity/6000.0.53f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/6000.0.53f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/6000.0.53f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/CheeseCollision.cs"
+"Assets/Script/AudioController.cs"
+"Assets/Script/BallSound.cs"
+"Assets/Script/CheeseCollision.cs"
+"Assets/Script/RandomDuplicate.cs"
 -langversion:9.0
 /deterministic
 /optimize+
